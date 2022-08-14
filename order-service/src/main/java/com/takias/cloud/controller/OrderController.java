@@ -1,5 +1,8 @@
 package com.takias.cloud.controller;
 
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
 public class OrderController {
 
 }
