@@ -18,8 +18,7 @@ import com.takias.cloud.repo.OrderRepository;
 public class OrderRepoTest {
 	
 	@Autowired
-	private OrderRepository orderRepo;
-	
+	private OrderRepository orderRepo;	
 	
 	@Test
 	@Order(1)
